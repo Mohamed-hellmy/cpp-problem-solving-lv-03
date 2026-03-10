@@ -1,0 +1,3 @@
+﻿  #37.cpp
+C:\Users\moham\Desktop\C++ Courses\cpp-problem-solvimg-level 3\#37\#37\#37.cpp(24,41): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  #37.vcxproj -> C:\Users\moham\Desktop\C++ Courses\cpp-problem-solvimg-level 3\#37\x64\Debug\#37.exe
